@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "A1ZEjIo8s8keIYyimKL7wte14R75zwlKAGbhr8CD5oBzYFq6EaYKdl75IzuVtwS2//lwNr/wnM8zMoTKCzOXPQ==",
+  "dgSpecHash": "N0RKG2RDJrThOy8rxpUkeerkZo+R+SlwvIlnzh6EoD0Q5aJfuk8rjENvSXSZYzoGLkzNdESDJb+jwaAHWxrLMQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\MyProjects\\SoftPlan\\API_WITH_TDD_NETCORE\\API__1\\API__1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
