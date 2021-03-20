@@ -12,14 +12,11 @@ namespace APIs.test
         private readonly TestServer _server1;
         private readonly HttpClient _client1;
 
-        private readonly TestServer _server2;
-        private readonly HttpClient _client2;
-
         public API_2_Test()
         {
             // Arrange
             _server1 = new TestServer(new WebHostBuilder()
-               .UseStartup<API__1.Startup>());
+               .UseStartup<API__2.Startup>());
             _client1 = _server1.CreateClient();
         }
 
