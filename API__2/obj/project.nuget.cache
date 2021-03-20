@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2BQyP5TxNSf5SiDawlXTbIZdwQ/FFAYJQ4SWrILL3JRDth8zj/HagLzITLh/jj0L/iAnEuRGaZepHFliFVeHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\MyProjects\\SoftPlan\\API_WITH_TDD_NETCORE\\API__2\\API__2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.13\\microsoft.aspnetcore.testhost.3.1.13.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\system.io.pipelines\\4.7.4\\system.io.pipelines.4.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
