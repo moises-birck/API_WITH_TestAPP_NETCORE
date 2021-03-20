@@ -41,7 +41,7 @@ namespace APIs.test
             var responseString = await response.Content.ReadAsStringAsync();
 
             // Assert
-            Assert.Equal("url", responseString);
+            Assert.Equal("https://github.com/sesiom12/API_WITH_TDD_NETCORE", responseString);
         }
 
 
